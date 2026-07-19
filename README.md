@@ -1,44 +1,86 @@
-# Neurofive ML Track
+# 🚢 Titanic Survival Prediction
 
-## Titanic Data Analysis
+Welcome to my Machine Learning project! 👋
 
-This repository contains my work for the **Neurofive ML Track**.
+This project is part of the **Neurofive ML Track**, where I learned how to use Machine Learning to predict whether a passenger on the Titanic survived or not.
 
-### Project
+---
 
-I used the Titanic dataset to learn the basics of **Exploratory Data Analysis (EDA)**, **Data Cleaning**, and **Data Visualization** using Python.
+## 📌 Project Goal
 
-### Tools Used
+The goal of this project is to build a Machine Learning model that can predict passenger survival based on information such as:
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Google Colab
+* 👤 Gender
+* 🎂 Age
+* 🎟️ Passenger Class
+* 💰 Ticket Fare
+* 👨‍👩‍👧 Family Information
+* 🚢 Boarding Port
 
-### Tasks Completed
+---
 
-* Loaded the Titanic dataset
-* Explored the dataset using `head()`, `info()`, and `describe()`
-* Found and handled missing values
-* Detected outliers using a boxplot
-* Created visualizations:
+## 🛠️ What I Did
 
-  * Histogram
-  * Boxplot
-  * Bar Chart
-  * Correlation Heatmap
-* Wrote a short summary of the findings
+* 📂 Loaded the Titanic dataset
+* 🧹 Cleaned missing values
+* 🔄 Converted text data into numbers
+* ✂️ Split the data into training and testing sets
+* 🤖 Trained a Logistic Regression model
+* 📊 Evaluated the model using Accuracy Score
+* 📋 Analyzed the results with a Confusion Matrix
 
-### Files
+---
 
-* `Titanic_EDA.ipynb` – Notebook with all code and analysis
-* `requirements.txt` – Required Python libraries
-* `README.md` – Project information
+## 📈 Model Performance
 
-### Learning Outcome
+**Machine Learning Algorithm:** Logistic Regression
 
-This project helped me understand how to explore, clean, and visualize data before building machine learning models.
+**Accuracy:** **0.7806451612903226**
 
-**Author:** Sankesh Lal
+---
+
+## 📚 Technologies Used
+
+* 🐍 Python
+* 🐼 Pandas
+* 🔢 NumPy
+* 🤖 Scikit-learn
+* 📊 Matplotlib
+* 🎨 Seaborn
+* 📓 Google Notebook
+
+---
+
+## 📁 Project Files
+
+* 📘 `titanic.ipynb` — Complete notebook
+* 📄 `README.md` — Project overview
+* 📦 `requirements.txt` — Required Python libraries
+
+---
+
+## 🎯 What I Learned
+
+Through this project, I learned how to:
+
+* Explore and clean real-world data
+* Prepare data for Machine Learning
+* Evaluate model performance
+* Understand the importance of data preprocessing
+
+---
+
+## 🚀 Future Improvements
+
+* Try other Machine Learning algorithms
+* Improve model accuracy with feature engineering
+* Tune model parameters for better performance
+* Deploy the model as a simple web application on streamlit
+
+---
+
+## 👨‍💻 Author
+
+**Sankesh Lal**
+
+⭐ If you found this project interesting, feel free to explore the repository and share your feedback!
