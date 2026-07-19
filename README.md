@@ -58,8 +58,14 @@ The goal of this project is to build a Machine Learning model that can predict p
 * 📦 `requirements.txt` — Required Python libraries
 
 ---
-#Histogram
-![image alt](https://github.com/Sankesh12/Fake-News-Detection/blob/main/fake5.png)
+## Histogram
+![image alt](https://github.com/Sankesh12/neurofive-ml-track/blob/main/histogram.png)
+
+## Bar Chart
+![image alt](https://github.com/Sankesh12/neurofive-ml-track/blob/main/bar_chart.png)
+
+## Accuracy
+![image alt](https://github.com/Sankesh12/neurofive-ml-track/blob/main/accuracy.png)
 
 ---
 
