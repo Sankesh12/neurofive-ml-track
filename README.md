@@ -83,7 +83,7 @@ This slightly improved the model performance and helped find better model settin
 ![image alt](https://github.com/Sankesh12/neurofive-ml-track/blob/main/bar_chart.png)
 
 ## Performance: Before vs After Tuning
-![image alt](https://github.com/Sankesh12/neurofive-ml-track/blob/main/accuracy.png)
+![image alt](https://github.com/Sankesh12/neurofive-ml-track/blob/main/performance.png)
 
 ---
 
