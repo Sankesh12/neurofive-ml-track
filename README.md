@@ -82,7 +82,7 @@ This slightly improved the model performance and helped find better model settin
 ## Bar Chart
 ![image alt](https://github.com/Sankesh12/neurofive-ml-track/blob/main/bar_chart.png)
 
-## Accuracy
+## Performance: Before vs After Tuning
 ![image alt](https://github.com/Sankesh12/neurofive-ml-track/blob/main/accuracy.png)
 
 ---
@@ -102,7 +102,6 @@ Through this project, I learned how to:
 
 * Try other Machine Learning algorithms
 * Improve model accuracy with feature engineering
-* Tune model parameters for better performance
 * Deploy the model as a simple web application on streamlit
 
 ---
