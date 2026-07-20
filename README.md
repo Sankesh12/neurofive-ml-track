@@ -33,9 +33,27 @@ The goal of this project is to build a Machine Learning model that can predict p
 
 ## 📈 Model Performance
 
-**Machine Learning Algorithm:** Logistic Regression
+| Model | Accuracy |
+|--------|----------|
+| Original Logistic Regression | 78.06% |
+| Tuned Logistic Regression | 81.29% |
 
-**Accuracy:** **0.7806451612903226**
+### Hyperparameter Tuning
+
+I used **GridSearchCV** to find the best values for:
+
+- C
+- Solver
+
+This slightly improved the model performance and helped find better model settings automatically.
+
+### Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
 
 ---
 
